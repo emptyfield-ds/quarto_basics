@@ -10,3 +10,4 @@ Encoding: UTF-8
 AutoAppendNewline: Yes
 StripTrailingWhitespace: Yes
 LineEndingConversion: Posix
+
